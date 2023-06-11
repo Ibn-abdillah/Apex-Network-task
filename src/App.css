@@ -91,6 +91,10 @@ span{
       box-shadow: 0px 0px #303030;
   }
 
+  p{
+    font-size: 14px;
+  }
+  
   .get-app img{
       width: 100px;
       margin-right: 5px;
