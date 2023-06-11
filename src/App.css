@@ -1,0 +1,101 @@
+/****** apex network logo  ********/
+
+.logo{
+  text-align: center;
+}
+
+/*****  template frame  **********/
+
+.frame{
+  max-width: 500px;
+  margin: auto;
+  padding: 1rem 2rem;
+}
+
+/****   banner image ****/
+
+.banner-image{
+  max-width: 500px;
+  margin: 30px 0 1.2rem;
+}
+
+.banner-image img{
+  width: 100%;
+}
+
+h2{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 500px;
+  text-align: left;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+/*******  Linear gradient box ******/
+
+.gradient-box{
+  margin: 1rem 0;
+  max-width: 500px;
+  height: 261px;
+  background: linear-gradient(to top right,#dd463c, #67016e);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gradient-box img{
+  width: 180px;
+}
+
+
+/*****  span inside the paragraph *****/
+
+span{
+  color: #FCA338;
+}
+
+/****** social campaign     ******/
+
+.social-campaign img{
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+/*     download our App img    */
+
+.get-app img{
+  margin-right: 20px;
+}
+
+/*    it's responsiveness for mobile view */
+
+@media screen and (max-width: 450px) {
+  .content{
+      max-width: 100%;
+      margin: auto;
+      padding: 1rem 2rem;
+      box-shadow: 0px 0px #303030;
+  }
+
+  .get-app img{
+      width: 100px;
+      margin-right: 5px;
+  }
+}
+
+
+/*  hgklcacvuz64 */
