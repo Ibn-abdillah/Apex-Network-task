@@ -38,7 +38,7 @@ function App() {
        </div>
 
        <p>
-        Visit the website <span>@apexnetork.com</span> and log in to your account.
+        Visit the website <span>@apexnetwork.com</span> and log in to your account.
         Navigate to the “Redeem Gift” section and 
         enter the gift code. Confirm the redemption and enjoy your gift.
        </p>
